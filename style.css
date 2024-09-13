@@ -1,0 +1,27 @@
+.nav-item{
+    color: white;
+}
+.header-nav-one a{
+    text-decoration: none;
+    color: white;
+}
+.header-nav-one a:hover{
+    color: orangered;
+    transition: 0.7s;
+
+}
+.navbar-toggler{
+    border: 0px;
+}
+
+*{
+    margin: 0;
+}
+.img-fluid{
+    width: 1351px;
+    margin: 0;
+}
+.kopico2{
+    width: 934px; 
+    margin-left: 162px;
+}
